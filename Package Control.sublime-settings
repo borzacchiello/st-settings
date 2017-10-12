@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"CTags",
+		"Highlight",
+		"Markdown Preview",
+		"Package Control",
+		"Racket",
+		"x86 and x86_64 Assembly"
+	]
+}

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+using namespace std;
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>nstd</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.c++</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Snippet to easly write 'using namespace std;'</description>
+</snippet>
