@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
 	"font_face": "Source Code Pro",
 	"font_options":

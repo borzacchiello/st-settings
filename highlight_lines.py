@@ -26,6 +26,5 @@ class HighlightLinesCommand(sublime_plugin.WindowCommand):
                 pass
         fin.close()
 
-
     def run(self):
         self.window.show_input_panel("Please enter the directory name:", "", self.on_done, None, None)
